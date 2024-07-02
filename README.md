@@ -1,7 +1,7 @@
 ## 👋 Olá, me chamo Marcelo oliveira
 
 - 👨‍🎓 Estudante de Sistemas para internet
-- 👨‍💻 Atualmente estou estudando Front End
+- 👨‍💻 Desenvolvedor de Software
 - 📫 Contate-me por email: marcelo.oliveira7931@gmail.com
 
 - ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo783&show_icons=true&theme=dracula)
