@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Marcelo oliveira
 
-- 👨‍🎓 Estudante de Sistemas para internet
+- 👨‍🎓 Sistemas para internet - Uncisal
 - 👨‍💻 Desenvolvedor de Software
 - 📫 Contate-me por email: marcelo.oliveira7931@gmail.com
 
